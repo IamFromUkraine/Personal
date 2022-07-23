@@ -1,0 +1,23 @@
+<html>
+<head>
+<title> Персонажі </title>
+<link rel = "stylesheet" href = "style.css">  
+</head>
+<body>
+<div class = "A">
+<img src = "inferno.png"> <p> <b> Fortnite Skin Пекельний - Легендарний </p>
+</div>
+<div class = "A">
+<img src = "sludge.jpg"> <p> <b> Fortnite Skin Пузир - Рідкісний </p>
+</div>
+<div class = "A">
+<img src = "raven.png"> <p> <b> Fortnite Skin Ворон - Легендарний </p>
+</div>
+<div class = "B">
+<img src = "thor.jpg"> <p> <b> Fortnite Skin Тор - Серія Марвел </p>
+</div>
+<div class = "B">
+<img src = "wukong.png"> <p> <b> Fortnite Skin Вуконг - Легендарний </p>
+</div>
+</body>
+</html>
